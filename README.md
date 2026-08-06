@@ -1,4 +1,4 @@
-# 👨‍💻 | *Lucas Felipe*
+# 👨‍💻 Lucas Felipe
 
 **`Futuro Desenvolvedor FullStack`** **`Estudante da ETEC`**
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias (Aprendendo)
+### 🤖 Linguagens e Tecnologias que estou Aprendendo
 
 <img 
     align="center" 
