@@ -13,14 +13,15 @@ Estou começando minha jornada no desenvolvimento de software e estudando princi
 ## 🚀 Atualmente estudando
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,git,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,python,c" />
 </div>
 <br>
-- 🌐 HTML & CSS
-- 🐍 Python
-- 🔧 Git & GitHub
-- 🧠 Lógica de programação
-- 💻 Desenvolvimento Web
+- 🌐 HTML & CSS<br>
+- 🐍 Python<br>
+- 🔧 Git & GitHub<br>
+- 🧠 Lógica de programação<br>
+- 💻 Desenvolvimento Web<br>
+- 📘 Linguagem C<br>
 
 ---
 
@@ -34,15 +35,14 @@ Quero evoluir cada vez mais na programação, criar meus próprios projetos e, n
 
 <div>
   <a href="https://instagram.com/4reallipe">
-    <img 
-      src="https://img.shields.io/badge/Instagram-4reallipe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    <img
+      src="https://img.shields.io/badge/-4reallipe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     >
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/4reallipe">
+  <a href="https://github.com/4reallipe" align="right">
     <img 
-      src="https://img.shields.io/badge/GitHub-4reallipe-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/-4reallipe-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     >
   </a>
@@ -52,7 +52,7 @@ Quero evoluir cada vez mais na programação, criar meus próprios projetos e, n
 
 ## 💡 Projetos
 
-### [🐍 Python - Curso em Vídeo](https://github.com/4reallipe/python-cursoemvideo)
+### [🐍 Python — Curso em Vídeo](https://github.com/4reallipe/python-cursoemvideo)
 Exercícios, desafios e anotações desenvolvidos durante meus estudos de Python.
 
 ### [💻 Programação e Algoritmos](https://github.com/4reallipe/Programacao_Algoritmo-etec)
