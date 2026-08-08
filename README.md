@@ -1,3 +1,5 @@
+<div align="justify">
+  
 # 👨‍💻 Lucas Felipe
 
 **`Estudante de Informática`** **`ETEC`** **`Desenvolvedor em formação`**
@@ -81,3 +83,5 @@ student = {
     "goal": "Me tornar um desenvolvedor",
     "status": "Aprendendo e construindo 🚀"
 }
+```
+</div>
