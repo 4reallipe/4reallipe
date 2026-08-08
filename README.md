@@ -76,7 +76,7 @@ Exercícios e projetos desenvolvidos durante as aulas de Interfaces Web.
 
 ## 🧩 Sobre mim
 
-```python
+```json
 student = {
     "name": "Lucas Felipe",
     "studying": ["HTML", "CSS", "Python", "Git"],
