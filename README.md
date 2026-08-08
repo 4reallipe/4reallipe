@@ -52,14 +52,23 @@ Quero evoluir cada vez mais na programação, criar meus próprios projetos e, n
 
 ## 💡 Projetos
 
-### [🐍 Python — Curso em Vídeo](https://github.com/4reallipe/python-cursoemvideo)
+### 🐍 [Python — Curso em Vídeo](https://github.com/4reallipe/python-cursoemvideo)
+
 Exercícios, desafios e anotações desenvolvidos durante meus estudos de Python.
 
-### [💻 Programação e Algoritmos](https://github.com/4reallipe/Programacao_Algoritmo-etec)
+`Python`
+
+### 💻 [Programação e Algoritmos](https://github.com/4reallipe/Programacao_Algoritmo-etec)
+
 Exercícios e programas desenvolvidos durante o curso técnico da ETEC.
 
-### [🌐 Interfaces Web](https://github.com/4reallipe/InterfacesWeb-etec)
+`Portugol` `Linguagem C`
+
+### 🌐 [Interfaces Web](https://github.com/4reallipe/InterfacesWeb-etec)
+
 Exercícios e projetos desenvolvidos durante as aulas de Interfaces Web.
+
+`HTML` `CSS/PHP`
 
 ---
 
