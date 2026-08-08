@@ -15,9 +15,7 @@ Estou começando minha jornada no desenvolvimento de software e estudando princi
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,git,python" />
 </div>
-
-### 📚 O que estou aprendendo
-
+<br>
 - 🌐 HTML & CSS
 - 🐍 Python
 - 🔧 Git & GitHub
@@ -32,41 +30,36 @@ Quero evoluir cada vez mais na programação, criar meus próprios projetos e, n
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4reallipe&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4reallipe&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
-<p>
+<div>
   <a href="https://instagram.com/4reallipe">
     <img 
       src="https://img.shields.io/badge/Instagram-4reallipe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     >
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/4reallipe">
     <img 
       src="https://img.shields.io/badge/GitHub-4reallipe-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     >
   </a>
-</p>
+</div>
 
 ---
 
 ## 💡 Projetos
 
-> Meus projetos ainda estão começando, mas pretendo usar este espaço para registrar minha evolução e compartilhar o que venho construindo.
+### [🐍 Python - Curso em Vídeo](https://github.com/4reallipe/python-cursoemvideo)
+Exercícios, desafios e anotações desenvolvidos durante meus estudos de Python.
+
+### [💻 Programação e Algoritmos](https://github.com/4reallipe/Programacao_Algoritmo-etec)
+Exercícios e programas desenvolvidos durante o curso técnico da ETEC.
+
+### [🌐 Interfaces Web](https://github.com/4reallipe/InterfacesWeb-etec)
+Exercícios e projetos desenvolvidos durante as aulas de Interfaces Web.
 
 ---
 
