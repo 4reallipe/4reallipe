@@ -1,61 +1,81 @@
 # 👨‍💻 Lucas Felipe
 
-**`Futuro Desenvolvedor FullStack`** **`Estudante da ETEC`**
+**`Estudante de Informática`** **`ETEC`** **`Desenvolvedor em formação`**
 
-> Me chamo Lucas Felipe Da Silva Figueiredo, tenho 16 anos e sou        natural do estado de São Paulo. Curso atualmente meu ensino médio integrado ao curso de Técnico em informática para internet pela ETEC de Santa Isabel. Ainda sou iniciante e estou descobrindo o que seguirei na área de TI. Atualmente faço os cursos de HTML & CSS e Python pelo site do [cursoemvideo](cursoemvideo.com).
+> Explorando o mundo da programação e construindo meus primeiros projetos.
+
+Atualmente curso **Ensino Médio integrado ao Técnico em Informática para Internet** na **ETEC de Santa Isabel**.
+
+Estou começando minha jornada no desenvolvimento de software e estudando principalmente **HTML, CSS, Git e Python**. Ainda estou descobrindo qual área da tecnologia mais combina comigo — e, por enquanto, estou curtindo aprender um pouco de tudo.
+
+---
+
+## 🚀 Atualmente estudando
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,git,python" />
+</div>
+
+### 📚 O que estou aprendendo
+
+- 🌐 HTML & CSS
+- 🐍 Python
+- 🔧 Git & GitHub
+- 🧠 Lógica de programação
+- 💻 Desenvolvimento Web
+
+---
+
+## 🎯 Objetivo
+
+Quero evoluir cada vez mais na programação, criar meus próprios projetos e, no futuro, trabalhar profissionalmente com tecnologia.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=4reallipe&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4reallipe&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
 <p>
-    <a href="https://instagram.com/4reallipe">
-        <img
-            height="30"
-            width="30"
-            title="Meu instagram"
-            src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
-        >
-    </a>
-    <a href="https://wa.me/5511958810204">
-        <img
-            align="right"
-            height="30"
-            width="30"
-            title="Meu Whatsapp"
-            src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
-        >
-    </a>
+  <a href="https://instagram.com/4reallipe">
+    <img 
+      src="https://img.shields.io/badge/Instagram-4reallipe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    >
+  </a>
+  
+  <a href="https://github.com/4reallipe">
+    <img 
+      src="https://img.shields.io/badge/GitHub-4reallipe-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias que estou Aprendendo
+## 💡 Projetos
 
-<img 
-    align="center" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+> Meus projetos ainda estão começando, mas pretendo usar este espaço para registrar minha evolução e compartilhar o que venho construindo.
+
+---
+
+## 🧩 Sobre mim
+
+```python
+student = {
+    "name": "Lucas Felipe",
+    "studying": ["HTML", "CSS", "Python", "Git"],
+    "goal": "Me tornar um desenvolvedor",
+    "status": "Aprendendo e construindo 🚀"
+}
